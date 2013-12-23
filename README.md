@@ -58,3 +58,6 @@ Now you can manage roles in any of the following ways:
 Enjoy!
 
 ~ Mark Dodwell (<a href="http://twitter.com/madeofcode">@madeofcode</a>)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mkdynamic/miracle_roles/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
